@@ -32,9 +32,9 @@
 
         layer_1 {
             bindings = <
-&kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5    &kp NUMBER_6  &kp NUMBER_7            &kp NUMBER_8                  &kp NUMBER_9      &kp NUMBER_0
-&kp TAB       &trans        &trans        &trans        &trans          &kp GRAVE     &mt LCTRL LEFT_BRACKET  &mt LEFT_SHIFT RIGHT_BRACKET  &mt LEFT_ALT SQT  &mt LEFT_GUI BACKSLASH
-&trans        &trans        &trans        &trans        &trans          &trans        &trans                  &kp MINUS                     &kp EQUAL         &kp DELETE
+&kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5    &kp NUMBER_6  &kp NUMBER_7            &kp NUMBER_8                  &kp NUMBER_9            &kp NUMBER_0
+&kp TAB       &trans        &trans        &trans        &trans          &kp GRAVE     &mt LCTRL LEFT_BRACKET  &mt LEFT_SHIFT RIGHT_BRACKET  &mt LEFT_ALT BACKSLASH  &mt LEFT_GUI SQT
+&trans        &trans        &trans        &trans        &trans          &trans        &trans                  &kp MINUS                     &kp EQUAL               &kp DELETE
                                           &trans        &mo 2           &mo 2         &trans
             >;
         };
